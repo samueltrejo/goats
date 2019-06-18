@@ -17,7 +17,7 @@ const goats = [
     fullness: 86,
     favPose: 'mountain',
     isFainting: true,
-    color: 'brown',
+    color: 'darkbrown',
   },
   {
     id: 'goat3',
@@ -27,7 +27,7 @@ const goats = [
     fullness: 99,
     favPose: 'plank',
     isFainting: false,
-    color: 'brown',
+    color: 'black',
   },
   {
     id: 'goat4',
@@ -37,7 +37,7 @@ const goats = [
     fullness: 32,
     favPose: 'triangle',
     isFainting: false,
-    color: 'brown',
+    color: 'grey',
   },
   {
     id: 'goat5',
@@ -47,7 +47,7 @@ const goats = [
     fullness: 10,
     favPose: 'tree',
     isFainting: true,
-    color: 'brown',
+    color: 'white',
   },
 ];
 
