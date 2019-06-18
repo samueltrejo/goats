@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 
 const goatShape = PropTypes.shape({
   id: PropTypes.string.isRequired,
-  name: PropTypes.number.isRequired,
+  name: PropTypes.string.isRequired,
   disposition: PropTypes.string.isRequired,
   image: PropTypes.string.isRequired,
   fullness: PropTypes.number.isRequired,

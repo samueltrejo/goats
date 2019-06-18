@@ -9,7 +9,7 @@ import './GoatCorral.scss';
 
 class GoatCorral extends React.Component {
   static propTypes = {
-    goats: PropTypes.arrayOf(goatShape),
+    goats: PropTypes.arrayOf(goatShape.goatShape),
   }
 
   render() {
